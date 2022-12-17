@@ -17,23 +17,23 @@ public class Q1_FormFillup extends Base {
 	public void TextArea() throws InterruptedException {
 
 		// Name
-		driver.findElement(By.id("name")).sendKeys("Admin Sadi");
+		driver.findElement(By.id("name")).sendKeys("Test Admin");
 		Thread.sleep(3000);
 
 		// Mobile number
-		driver.findElement(By.id("phone")).sendKeys("01300079355");
+		driver.findElement(By.id("phone")).sendKeys("01234567890");
 		Thread.sleep(3000);
 
 		// Email address
-		driver.findElement(By.id("email")).sendKeys("admin4sadi@gmail.com");
+		driver.findElement(By.id("email")).sendKeys("testadmin@gmail.com");
 		Thread.sleep(3000);
 
 		// Password
-		driver.findElement(By.id("password")).sendKeys("Admin12345");
+		driver.findElement(By.id("password")).sendKeys("testadmin12345");
 		Thread.sleep(3000);
 
 		// Address
-		driver.findElement(By.id("address")).sendKeys("12/1, Janata Housing, Ring Rd, Adabor, Dhaka.");
+		driver.findElement(By.id("address")).sendKeys("12/1, Janata Housing, Ring Rd, Dhaka.");
 		Thread.sleep(3000);
 
 		// Click Submit
