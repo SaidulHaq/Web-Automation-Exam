@@ -11,15 +11,26 @@ This is the first exam in web automation, which consists of 5 questions.:
 
 ## Screenshots
 
-### Test Report
-![]()
+### Form
+![](https://github.com/SaidulHaq/Web-Automation-Exam/blob/main/form.jpg)
 
-### Test Metrics
-![]()
+### Dropdown
+![](https://github.com/SaidulHaq/Web-Automation-Exam/blob/main/dropdown.png)
 
-### Bug Report
-![]()
+### Radio button and Check Box
+![](https://github.com/SaidulHaq/Web-Automation-Exam/blob/main/radioButton%20checkBox.jpg)
 
-### Mind Map
-![]()
+### JavaScript Alert
+![](https://github.com/SaidulHaq/Web-Automation-Exam/blob/main/js%20alert.jpg)
 
+### JavaScript Confirm
+![](https://github.com/SaidulHaq/Web-Automation-Exam/blob/main/js%20confirm.jpg)
+
+### JavaScript Prompt
+![](https://github.com/SaidulHaq/Web-Automation-Exam/blob/main/js%20prompt.jpg)
+
+### Assertion Result
+![](https://github.com/SaidulHaq/Web-Automation-Exam/blob/main/assert%20result.jpg)
+
+### Hover Menu
+![](https://github.com/SaidulHaq/Web-Automation-Exam/blob/main/hover.png)
